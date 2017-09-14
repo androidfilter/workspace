@@ -10,9 +10,5 @@ public class WuYongActivity {
 
    public void FangFa(){
        Log.e("123","123");
-
-
-
-
    }
 }
